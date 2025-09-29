@@ -25,3 +25,21 @@ DELETE /api/products/:id → ลบสินค้า
 │   └── camera_store(1).sql 
 └── README.md 
    ```
+
+---
+## 📷 ตัวอย่างการใช้งาน API
+
+### GET สินค้าทั้งหมด
+![GET Products](images/ดูสินค้าทั้งหมด.png)
+
+### GET ดูสินค้าและรายการ
+![GET Products](images/ดูสินค้าและรายการ.png)
+
+### POST เพิ่มสินค้า
+![POST Product](images/เพิ่มสินค้าใหม่.png)
+
+### PUT แก้ไขสินค้า
+![PUT Product](images/แก้ไขข้อมูลสินค้า.png)
+
+### DELETE ลบสินค้า
+![DELETE Product](images/ลบสินค้า.png)
